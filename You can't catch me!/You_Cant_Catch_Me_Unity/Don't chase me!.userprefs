@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameMenu.js">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMotor.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerControl.js" Line="77" Column="5" />
+      <File FileName="Assets/Scripts/GameMenu.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameOver.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Camers.js" Line="19" Column="23" />
+      <File FileName="Assets/Scripts/EnemyControl.js" Line="38" Column="5" />
+      <File FileName="Assets/Scripts/PauseMenu.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
